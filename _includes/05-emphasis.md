@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+_👋 Hi, I’m @cloneartist_
+
+**👀 I’m interested in Mobile App Development and Cybersecurity...**
+__🌱 I’m currently learning Flutter and Machine Learning ...__
+
