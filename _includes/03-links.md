@@ -1,1 +1,1 @@
-[GitHub](http://github.com/cloneartist)
+[cloneartist's Github Profile](http://github.com/cloneartist)
