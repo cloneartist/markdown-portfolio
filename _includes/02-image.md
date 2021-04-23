@@ -1,1 +1,1 @@
-![Image of Coder](http://www.ftijournal.com/uploads/images/20160628_1516_FTI_Cyber_Security.gif)
+![Image of Coder](https://www.mckinsey.com/~/media/McKinsey/Email/Shortlist/14/Shortlist_1012_CyberSecurity_600x200.aspx)
